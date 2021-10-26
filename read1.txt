@@ -3,9 +3,6 @@ b.jjscafkdnfdkfnc
 dm hoang
 dm ky
 dm quyen
-<<<<<<< HEAD
 dmmmmmmmmmmmmmmmmmmmm
-=======
 
 dm viet
->>>>>>> 950767e125d7c3a04d87053a913603ad00457803
