@@ -1,2 +1,7 @@
 ahahahahahahahah
+<<<<<<< HEAD
 adasdasdasd
+=======
+change
+change
+>>>>>>> c74fb99e1aca8caa96a8803223945a012c13d547
