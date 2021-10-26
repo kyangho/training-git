@@ -5,3 +5,4 @@ dm ky
 dm quyen
 
 dm viet
+thang nao chui tao la cho
